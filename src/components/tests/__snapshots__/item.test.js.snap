@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`item should matche DOM Snapshot 1`] = `
+<div
+  className="item-container"
+>
+  <a
+    href="/details/undefined"
+    onClick={[Function]}
+  >
+    <svg
+      className="w-6 h-6"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.5"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M12.75 15l3-3m0 0l-3-3m3 3h-7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  </a>
+  <div
+    className="date"
+  >
+    <h3>
+      Forcast Date
+    </h3>
+    <h4 />
+  </div>
+  <div
+    className="day-time"
+  >
+    <h5>
+      Sunrise:-
+    </h5>
+    <h5>
+      Sunset:-
+    </h5>
+  </div>
+</div>
+`;
