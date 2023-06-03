@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://math-magicians-calculator-app-mryq.onrender.com)
+- [Live Demo Link](https://addisalemseifu.github.io/react-capstone-pro/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
