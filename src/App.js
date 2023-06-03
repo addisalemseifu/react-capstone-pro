@@ -11,7 +11,7 @@ function App() {
   const { isLoading } = useSelector((store) => store.location);
   useEffect(() => {
     dispatch(getLocation('London'));
-  }, []);
+  }, [dispatch]);
 
   if (isLoading) {
     return (
